@@ -1,0 +1,20 @@
+COMANDOS
+=================
+
+Express - framework para aplicações WEB, implementa uma api de diversos metodos para manipular de 
+forma mais fácil funções do NodeJS para controle de rotas, controle de middlewares.
+
+EJS - linguagem de modelagem para utilizar javascpit para criar paginas HTML.
+
+Nodemon - utilitario para reiniciar o servidor NodeJS.
+
+Npm - gerenciador de pacotes JavaScript.
+
+
+
+NPM
+
+
+Iniciar o NPM -> npm init
+
+Instalar o express -> npm install express -save
