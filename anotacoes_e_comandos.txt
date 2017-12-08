@@ -1,5 +1,5 @@
-COMANDOS
-=================
+ANOTAÇÕES IMPORTANTES
+======================
 
 Express - framework para aplicações WEB, implementa uma api de diversos metodos para manipular de 
 forma mais fácil funções do NodeJS para controle de rotas, controle de middlewares.
@@ -16,9 +16,14 @@ NPM
 =====================================================
 Iniciar o NPM -> npm init
 
-Instalar o express -> npm install express -save
+Instalar o Express -> npm install express -save
 
 
 EJS
 =====================================================
 Instalar o EJS -> npm install ejs --save
+
+
+NODEMON
+=====================================================
+Instalar o Nodemon -> npm install -g nodemon
