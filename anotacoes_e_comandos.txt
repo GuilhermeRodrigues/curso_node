@@ -27,3 +27,8 @@ Instalar o EJS -> npm install ejs --save
 NODEMON
 =====================================================
 Instalar o Nodemon -> npm install -g nodemon
+
+
+MySQL
+=====================================================
+Instalar o MySQL -> npm install mysql --save
