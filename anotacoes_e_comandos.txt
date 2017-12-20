@@ -38,3 +38,8 @@ CÓDIGO JAVASCRIPT DENTRO DA PAGINA
 =====================================================
 Dentro da página, tudo que for processamento JavaScript, é colocado dentro das tags <% %>.
 Dentro da página, tudo que for imprimir na tela em JavaScript, é colocado dentro das tags <%= %>.
+
+
+CONSIGN
+=====================================================
+Instalar o Consign -> npm install consign --save
