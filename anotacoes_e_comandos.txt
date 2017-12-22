@@ -43,3 +43,8 @@ Dentro da página, tudo que for imprimir na tela em JavaScript, é colocado dentro
 CONSIGN
 =====================================================
 Instalar o Consign -> npm install consign --save
+
+
+BODY PARSER
+=====================================================
+Instalar o Body Parser -> npm install body-parser --save
