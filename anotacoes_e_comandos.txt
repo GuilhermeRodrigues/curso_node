@@ -32,6 +32,7 @@ Instalar o Nodemon -> npm install -g nodemon
 MySQL
 =====================================================
 Instalar o MySQL -> npm install mysql --save
+Acessar MySql pelo cmd -> mysql -u root -p
 
 
 CÓDIGO JAVASCRIPT DENTRO DA PAGINA
