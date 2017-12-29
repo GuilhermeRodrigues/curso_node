@@ -32,6 +32,7 @@ Instalar o Nodemon -> npm install -g nodemon
 MySQL
 =====================================================
 Instalar o MySQL -> npm install mysql --save
+Acessar pasta MySql -> cd "Program Files"\MySql\"MySql Server 5.7"\bin
 Acessar MySql pelo cmd -> mysql -u root -p
 
 
